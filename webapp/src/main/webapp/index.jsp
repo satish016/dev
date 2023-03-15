@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To SVInfotech webpage</h1>
+<h1>Welcome To SVInfotech Education webpage</h1>
 </body>
 <body style="color:red;">
  <div class="container">
