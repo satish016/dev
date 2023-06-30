@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Welcome To Techno Experts Labs</h1>
-<h2>Testing pool SCM</h2>
+<h2>pool SCM</h2>
 </body>
 <body style="color:red;">
  <div class="container">
